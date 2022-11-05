@@ -1,4 +1,10 @@
-### Hi there 👋
+# MartinHvi
+
+Working on projects in my spare time.
+
+## Skills and Experience
+*   🐍   PYTHON 
+*   💲_   BASH 
 
 <!--
 **MartinHvi/MartinHvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
